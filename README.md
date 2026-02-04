@@ -1,4 +1,4 @@
-def find_max(numbers):
+def find_max(number):
     max_value = numbers[0]
     for n in numbers:
         if n > max_value:
